@@ -1,4 +1,4 @@
-# ai-projects-ai-vros
+# Medical Report Generator
 <ol>
   <li>
     <h2>Definirea Problemei</h2>
